@@ -3,7 +3,7 @@
     <picture>
       <source srcset="assets/logo-horizontal/png/logo-horizontal-orange.png" media="(prefers-color-scheme: light)">
       <source srcset="assets/logo-horizontal/png/logo-horizontal-white.png" media="(prefers-color-scheme: dark)">
-      <img src="assets/logo-horizontal/png/logo-horizontal-orange.png" alt="PBN Logo" width="50%">
+      <img src="./assets/logo-horizontal/png/black and orange gradient.png" alt="PBN Logo" width="50%">
     </picture>
   </a>
 </div>
