@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://planb.network">
     <picture>
-      <source srcset="assets/logo-horizontal/png/logo-horizontal-orange.png" media="(prefers-color-scheme: light)">
-      <source srcset="assets/logo-horizontal/png/logo-horizontal-white.png" media="(prefers-color-scheme: dark)">
+      <source srcset="./assets/logo-horizontal/png/black and orange gradient.png" media="(prefers-color-scheme: light)">
+      <source srcset="./assets/logo-horizontal/png/white and orange gradient.png" media="(prefers-color-scheme: dark)">
       <img src="./assets/logo-horizontal/png/black and orange gradient.png" alt="PBN Logo" width="50%">
     </picture>
   </a>
