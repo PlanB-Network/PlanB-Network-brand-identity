@@ -129,7 +129,7 @@ Each badge layout includes 3 pill styles within the Plan ₿ Network logo to mat
 
 ### Download Badge Variant
 
-| Layout               | Background | Orange Pill                                                   | Gradient Pill                                                  | Neutral Pill                                                    |
+| Layout               | Background | Orange Pill                                                   | Neutral Pill                                                   | Gradient Pill                                                   |
 | -------------------- | ---------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- |
 | Horizontal           | Light      | [🖼️](./assets/horizontal/light_background/orange.svg)         | [🖼️](./assets/horizontal/light_background/neutral.svg)         | [🖼️](./assets/horizontal/light_background/gradient.svg)         |
 | Horizontal           | Dark       | [🖼️](./assets/horizontal/dark_background/orange.svg)          | [🖼️](./assets/horizontal/dark_background/neutral.svg)          | [🖼️](./assets/horizontal/dark_background/gradient.svg)          |
