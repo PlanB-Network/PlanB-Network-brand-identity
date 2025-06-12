@@ -2,8 +2,6 @@
 
 These guidelines help maintain clarity, consistency, and credibility across all projects that carry the "Powered by Plan ₿ Network" label.
 
----
-
 ## 1. Logo Usage
 
 Use the official “Powered by Plan ₿ Network” badge to signal your project's affiliation with the ecosystem.
@@ -19,8 +17,6 @@ Don't:
 - Change logo colors or proportions
 - Add visual effects or shadows
 - Place the logo over busy or low-contrast backgrounds
-
----
 
 ## 2. Typography and Colors
 
@@ -39,8 +35,6 @@ Use this for all headings, UI text, and body content.
 | Plan ₿ Orange | #FF5C00  | Primary action & brand color |
 | Black         | #000000  | Backgrounds, text            |
 | White         | #FFFFFF  | Backgrounds, contrast        |
-
----
 
 ### UX/UI Orange Range
 
@@ -62,8 +56,6 @@ For interface design, please use the following shades derived from the primary P
 
 These should be used for hover states, highlights, borders, and interface elements. Maintain appropriate contrast for accessibility.
 
----
-
 ### Optional Brown-Neutral Range
 
 For use in dark-themed interfaces or when blending orange with background elements:
@@ -82,8 +74,6 @@ For use in dark-themed interfaces or when blending orange with background elemen
 | 900   | #2B1F18 |
 | 950   | #100A07 |
 
----
-
 ## 3. Voice and Tone
 
 Plan ₿ Network promotes clarity, inclusiveness, and educational integrity in Bitcoin. Projects should reflect those values through consistent voice and tone.
@@ -100,8 +90,6 @@ Avoid:
 - Confusing financial claims
 - Excessive jargon without context
 
----
-
 ## 4. Attribution Requirements
 
 All "Powered by Plan ₿ Network" projects must include visible attribution in at least one of the following locations:
@@ -116,15 +104,11 @@ All "Powered by Plan ₿ Network" projects must include visible attribution in a
 
 For media (videos, slides, infographics), include the attribution in footers or closing credits where possible.
 
----
-
 ## 5. Badge Variants & Clear Space
 
 Projects powered by Plan ₿ Network must use one of the approved badge variants provided below.
 
 To support diverse layout needs and backgrounds, there are 24 total variants across 4 layouts, 2 background types, and 3 pill styles.
-
----
 
 ### Layout Options
 
@@ -134,8 +118,6 @@ To support diverse layout needs and backgrounds, there are 24 total variants acr
 4. **Centered Layout**
 
 Each layout is available in both **light** and **dark** background versions.
-
----
 
 ### Pill Styles
 
@@ -147,21 +129,16 @@ Each badge layout includes 3 pill styles within the Plan ₿ Network logo to mat
 
 ### Download Badge Variant
 
-| Layout     | Background | Orange Pill                                           | Gradient Pill                                          | Neutral Pill                                            |
-| ---------- | ---------- | ----------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- |
-| Horizontal | Light      | [🖼️](./assets/horizontal/light_background/orange.svg) | [🖼️](./assets/horizontal/light_background/neutral.svg) | [🖼️](./assets/horizontal/light_background/gradient.svg) |
-| Horizontal | Dark       | [🖼️](./assets/horizontal/dark_background/orange.svg)  | [🖼️](./assets/horizontal/dark_background/neutral.svg)  | [🖼️](./assets/horizontal/dark_background/gradient.svg)  |
-
-Horizontal Light
-Horizontal Dark
-Left-Aligned (Small) Light
-Left-Aligned (Small) Dark
-Left-Aligned (Large) Light
-Left-Aligned (Large) Dark
-Centered Light
-Centered Dark
-
----
+| Layout               | Background | Orange Pill                                                   | Gradient Pill                                                  | Neutral Pill                                                    |
+| -------------------- | ---------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- |
+| Horizontal           | Light      | [🖼️](./assets/horizontal/light_background/orange.svg)         | [🖼️](./assets/horizontal/light_background/neutral.svg)         | [🖼️](./assets/horizontal/light_background/gradient.svg)         |
+| Horizontal           | Dark       | [🖼️](./assets/horizontal/dark_background/orange.svg)          | [🖼️](./assets/horizontal/dark_background/neutral.svg)          | [🖼️](./assets/horizontal/dark_background/gradient.svg)          |
+| Left-Aligned (Small) | Light      | [🖼️](./assets/left_aligned_small/light_background/orange.svg) | [🖼️](./assets/left_aligned_small/light_background/neutral.svg) | [🖼️](./assets/left_aligned_small/light_background/gradient.svg) |
+| Left-Aligned (Small) | Dark       | [🖼️](./assets/left_aligned_small/dark_background/orange.svg)  | [🖼️](./assets/left_aligned_small/dark_background/neutral.svg)  | [🖼️](./assets/left_aligned_small/dark_background/gradient.svg)  |
+| Left-Aligned (Large) | Light      | [🖼️](./assets/left_aligned_big/light_background/orange.svg)   | [🖼️](./assets/left_aligned_big/light_background/neutral.svg)   | [🖼️](./assets/left_aligned_big/light_background/gradient.svg)   |
+| Left-Aligned (Large) | Dark       | [🖼️](./assets/left_aligned_big/dark_background/orange.svg)    | [🖼️](./assets/left_aligned_big/dark_background/neutral.svg)    | [🖼️](./assets/left_aligned_big/dark_background/gradient.svg)    |
+| Centered             | Light      | [🖼️](./assets/centered/light_background/orange.svg)           | [🖼️](./assets/centered/light_background/neutral.svg)           | [🖼️](./assets/centered/light_background/gradient.svg)           |
+| Centered             | Dark       | [🖼️](./assets/centered/dark_background/orange.svg)            | [🖼️](./assets/centered/dark_background/neutral.svg)            | [🖼️](./assets/centered/dark_background/gradient.svg)            |
 
 ### Clear Space Guidelines
 
@@ -170,8 +147,6 @@ To preserve the integrity of the badge, maintain a minimum clear space around it
 ![](./assets/clear_space_image.png)
 
 This zone must remain free of text, UI elements, or graphic distractions. Do not crop or stretch the badge.
-
----
 
 ### Badge Usage Notes
 
