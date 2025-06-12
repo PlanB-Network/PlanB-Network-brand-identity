@@ -1,46 +1,33 @@
-<div align="center">
-  <a href="https://planb.network">
-    <picture>
-      <source srcset="./assets/logo-horizontal/png/black and orange gradient.png" media="(prefers-color-scheme: light)">
-      <source srcset="./assets/logo-horizontal/png/white and orange gradient.png" media="(prefers-color-scheme: dark)">
-      <img src="./assets/logo-horizontal/png/black and orange gradient.png" alt="PBN Logo" width="50%">
-    </picture>
-  </a>
-</div>
+y# Plan ₿ Network – Brand Kit for Powered Projects
 
-<div align="center">
-  <a href="https://planb.network/">
-    <img alt="Website" src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fplanb.network&logo=website&label=%F0%9F%8C%90%20Website&color=ff5c00">
-  </a>
-  <a href="https://twitter.com/planb_network">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/planb_network">
-  </a>
-  <a href="https://t.me/PlanBNetwork_ContentBuilder">
-    <img alt="Static Badge" src="https://img.shields.io/badge/community-telegram-blue?logo=telegram">
-  </a>
-</div>
+Welcome to the official brand book and asset kit for all projects Powered by Plan ₿ Network.
 
-# Plan ₿ Network Brand Identity
+This repository provides design resources, logo usage rules, typography, and tone guidelines to ensure consistent and meaningful alignment with the Plan ₿ Network mission — making high-quality Bitcoin education accessible to all.
 
-For detailed information on how to properly use our brand assets, please refer to the `planb_network_branding_guidelines.pdf` document included in this repository. These guidelines ensure consistent representation of our brand across different platforms and media.
+---
 
-## Repository Structure
+## What’s Included
 
-```
-planb-network-brand-identity/
-  ├── README.md
-  ├── planb_network_branding_guidelines.pdf
-  └── assets/
-      ├── logo-horizontal/
-      │   ├── png/
-      │   └── svg/
-      ├── logo-pill/
-      │   ├── png/
-      │   └── svg/
-      └── logo-vertical/
-          ├── png/
-          └── svg/
-```
+- Official "Powered by Plan ₿ Network" logo files (light and dark versions)
+- Typography and approved color palette
+- Voice and tone guidelines
+- Attribution requirements for affiliated projects
+
+---
+
+## Quick Links
+
+- Full Guidelines → ./GUIDELINES.md
+- Download Logo Assets → ./assets/logos/
+- Plan ₿ Network Website → https://planb.network
+
+---
+
+## Why It Matters
+
+Being part of the Plan ₿ ecosystem means contributing to a collective vision: a free, open, and decentralized approach to Bitcoin education. These guidelines ensure that all connected projects remain coherent, recognizable, and trusted — while giving you the flexibility to build your own identity.
+
+For any questions or to propose updates, open an issue or contact the core team.
 
 ## Questions or Support
 
