@@ -20,8 +20,6 @@ Don't:
 - Add visual effects or shadows
 - Place the logo over busy or low-contrast backgrounds
 
-Download assets: ./assets/
-
 ---
 
 ## 2. Typography and Colors
@@ -147,13 +145,19 @@ Each badge layout includes 3 pill styles within the Plan ₿ Network logo to mat
 - **Orange Gradient Pill** — smooth and modern
 - **Neutral Pill** — subtle, minimal styling
 
+### Download Badge Variant
+
+| Layout     | Background | Orange Pill                                                                                                                        | Gradient Pill                                                                                                                     | Neutral Pill                                                                                                                     |
+| ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Horizontal | Light      | [🖼️](https://github.com/PlanB-Network/PlanB-Network-brand-identity/blob/main/assets/centered%20big/dark%20background/gradient.svg) | [🖼️](https://github.com/PlanB-Network/PlanB-Network-brand-identity/blob/main/assets/centered%20big/dark%20background/neutral.svg) | [🖼️](https://github.com/PlanB-Network/PlanB-Network-brand-identity/blob/main/assets/centered%20big/dark%20background/orange.svg) |
+
 ---
 
 ### Clear Space Guidelines
 
 To preserve the integrity of the badge, maintain a minimum clear space around it equal to the width of the ₿ symbol.
 
-![](./assets/clear space image.png)
+![](./assets/clear_space_image.png)
 
 This zone must remain free of text, UI elements, or graphic distractions. Do not crop or stretch the badge.
 
