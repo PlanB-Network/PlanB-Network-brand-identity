@@ -147,9 +147,19 @@ Each badge layout includes 3 pill styles within the Plan ₿ Network logo to mat
 
 ### Download Badge Variant
 
-| Layout     | Background | Orange Pill                                                                                                                        | Gradient Pill                                                                                                                     | Neutral Pill                                                                                                                     |
-| ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Horizontal | Light      | [🖼️](https://github.com/PlanB-Network/PlanB-Network-brand-identity/blob/main/assets/centered%20big/dark%20background/gradient.svg) | [🖼️](https://github.com/PlanB-Network/PlanB-Network-brand-identity/blob/main/assets/centered%20big/dark%20background/neutral.svg) | [🖼️](https://github.com/PlanB-Network/PlanB-Network-brand-identity/blob/main/assets/centered%20big/dark%20background/orange.svg) |
+| Layout     | Background | Orange Pill                                           | Gradient Pill                                          | Neutral Pill                                            |
+| ---------- | ---------- | ----------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- |
+| Horizontal | Light      | [🖼️](./assets/horizontal/light_background/orange.svg) | [🖼️](./assets/horizontal/light_background/neutral.svg) | [🖼️](./assets/horizontal/light_background/gradient.svg) |
+| Horizontal | Dark       | [🖼️](./assets/horizontal/dark_background/orange.svg)  | [🖼️](./assets/horizontal/dark_background/neutral.svg)  | [🖼️](./assets/horizontal/dark_background/gradient.svg)  |
+
+Horizontal Light
+Horizontal Dark
+Left-Aligned (Small) Light
+Left-Aligned (Small) Dark
+Left-Aligned (Large) Light
+Left-Aligned (Large) Dark
+Centered Light
+Centered Dark
 
 ---
 
