@@ -1,4 +1,4 @@
-y# Plan ₿ Network – Brand Kit for Powered Projects
+# Plan ₿ Network – Brand Kit for Powered Projects
 
 Welcome to the official brand book and asset kit for all projects Powered by Plan ₿ Network.
 
